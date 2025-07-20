@@ -12,4 +12,4 @@ Please consider [donating](https://buymeacoffee.com/johnchinjew) to support the 
 
 ---
 
-© [John Chin-Jew](https://jawnyawns.github.io/). All rights reserved.
+© [John Chin-Jew](https://johntxt.github.io/). All rights reserved.
