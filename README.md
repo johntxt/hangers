@@ -1,6 +1,6 @@
 # Hangers
 
-[Hangers](https://hangers.party/) is a multiplayer game of words and wits! To win, you must guess every opponent's secret word before they guess yours. Battle opponents worldwide in the Arena or play with friends in a Private Match!
+[Hangers](https://hangers.party/) is a multiplayer game of words and wits! To win, you must guess every opponent's secret word before they guess yours. Play with friends or challenge opponents worldwide in the Arena!
 
 ## Report a problem
 
